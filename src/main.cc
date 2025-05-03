@@ -8,6 +8,5 @@ int main()
 {
      std::cout << add(1, 2) << std:: endl;
      std::cout << sub(1, 2) << std:: endl;
-     my_wheel::RBTNode<int> node;
      return 0;
 }
