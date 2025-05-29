@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <iomanip>
-#include "../../Log/include/DebugLog.h"
+#include "Log/DebugLog.h"
 
 namespace my_wheel
 {
